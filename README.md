@@ -35,7 +35,7 @@ python main.py
 ## Periodic Dependencies Learning experiment
 ![Image text](./pdf/Periodic_Dependencies.png)
 <p align="center">
-<b>Figure 1.</b> Visualization of learned periodic dependencies. For clearness, we select the top-9 time delay sizes $\left\{\delta_1,\cdots,\delta_9, \right\}$ of Auto-Correlation and mark them in raw series (red lines). For self-attentions, top-9 similar points with respect to the last time step (red stars) are also marked by yellow lines.
+<b>Figure 1.</b> Visualization of learned periodic dependencies. For clearness, we select the top-9 time delay sizes $\left\{\delta_1,\cdots,\delta_9, \right\}$ of Auto-Correlation and mark them in raw series (red lines). For attention, top-9 similar points with respect to the last time step (red stars) are also marked by yellow lines.
 </p>
 
 ## Long-term Dependencies Learning experiment
