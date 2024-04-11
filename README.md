@@ -30,6 +30,7 @@ python utils/preprocess_data.py --data reddit --bipartite
 python main.py
 
 ```
+![Image text](./pdf/Periodic_Dependencies.png)
 
 ## Periodic Dependencies Learning experiment
 <p align="center">
