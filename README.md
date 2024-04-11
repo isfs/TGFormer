@@ -33,7 +33,7 @@ python main.py
 
 ## Periodic Dependencies Learning experiment
 <p align="center">
-<img src="pdf/Periodic_Dependencies.png" height = "250" alt="" align=center />
+<img src=".\pdf\Periodic_Dependencies.png" height = "250" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> Visualization of learned periodic dependencies. For clearness, we select the top-9 time delay sizes $\left\{\delta_1,\cdots,\delta_9, \right\}$ of Auto-Correlation and mark them in raw series (red lines). For self-attentions, top-9 similar points with respect to the last time step (red stars) are also marked by yellow lines.
 </p>
